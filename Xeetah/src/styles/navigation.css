@@ -1,0 +1,49 @@
+/* Estilos globales */
+
+nav {
+    font-family: 'Aquire', sans-serif;
+    background: white;
+}
+
+/* Estilos generales */
+
+ul {
+    list-style:none;
+}
+
+a {
+    text-decoration:none;
+}
+
+/* Estilos especificos */
+
+.navbar {
+    position:absolute;
+    width:100%;
+    padding:50px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.navbar .logo {
+    font-size:2em;
+    font-weight:bold;
+}
+
+.navbar .nav-links ul {
+    display:flex;
+}
+  
+.navbar .nav-links ul li {
+    margin:0 25px;
+}
+  
+.navbar .nav-links ul li.active a {
+    color:#ff0000;
+    font-weight:600;
+}
+
+.navbar a {
+    color: #000;
+}
