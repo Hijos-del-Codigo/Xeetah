@@ -1,0 +1,21 @@
+.anime-container {
+  background-color: #fff;
+  color: #000;
+  font-weight: 400;
+  font-size: 3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Aquire", sans-serif;
+  height: 15vh;
+  box-sizing: border-box;
+  letter-spacing: 6px;
+  margin: 0;
+  line-height: 1.2;
+}
+
+span {
+  display: inline-block;
+}

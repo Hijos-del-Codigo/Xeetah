@@ -1,0 +1,85 @@
+#loga{
+    font-family: Aquire;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 80px;
+}
+#cuatro{
+    font-family: Lato;
+    font-size: 80px;
+    color: rgb(0, 107, 179);
+    font-weight: bolder;
+}
+#raya{
+    font-family: Calibri;
+    font-size: 80px;
+    padding-left: 50px;
+    font-weight: 10;
+}
+#info{
+    font-family: Lato;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 10;
+    font-weight: bolder;
+    padding-left: 50px;
+}
+#otro{
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 10;
+    font-weight: bolder;
+    padding-left: 50px;
+}
+#info2{
+    font-family: Lato;
+    font-size: 30px;
+    padding-left: 50px;
+    font-weight: 10;
+}
+
+.doble{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.ja{
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 4em;
+}
+#infkH{
+    background-color: rgb(44, 47, 255);
+    color: white;
+    border-radius: 8px;
+    width: 280px;
+    height: 60px;
+    font-size: 22px;
+    font-family: Lato;
+}
+#infkH:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+#infkL{
+    background-color: rgb(82, 163, 255);
+    color: rgb(44, 47, 255);
+    border-radius: 8px;
+    width: 280px;
+    height: 60px;
+    font-size: 22px;
+    font-family: Lato;
+    margin-left: 20px;
+}
+#infkL:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+#huj{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+    padding-left: 150px;
+}

@@ -1,0 +1,71 @@
+/* ESTILOS GLOBALES */
+
+/* ESTILOS GENERALES */
+
+
+
+/* ESTILOS ESPECIFICOS */
+
+#destacados {
+  font-family: Lato;
+  font-weight: bold;
+  text-align: center;
+}
+
+#contenido {
+  text-align: center;
+}
+
+.pcMounting {
+  position: relative;
+  width: 100%;
+  height: 675px;
+  background-image: url("../assets/Componentes-PC-Gamer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.pcMounting > p {
+    line-height: 0;
+}
+
+#monta {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 120px;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+#gaming {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 150px;
+  line-height: 252px;
+
+  text-align: center;
+
+  color: #0ff26a;
+  line-height: 50px;
+}
+
+#nosotros {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 132px;
+
+  text-align: center;
+
+  color: #ffffff;
+  line-height: 150px;
+}
+
+

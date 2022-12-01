@@ -1,0 +1,16 @@
+/* ESTILOS GENERALES */
+
+@keyframes pan {
+    100% { background-position: 15% 50% ;}
+}
+
+/* ESTILOS ESPECIFICOS */
+
+.register-card {
+    font-family: "Lato", sans-serif;
+    background-image: url('../../images/bg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: 
+        pan 6s infinite alternate linear;
+}
